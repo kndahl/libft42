@@ -2,7 +2,7 @@
 This is the first 42 project. The task is to recreate various standard C library functions, as well as extra things which might be useful, like linked lists for example.
 
 ## Compiling
-Run ```sh make ``` to compile
+Run ``` make ``` to compile
 
 ## Usage
 Compile and include the lib in your C file
